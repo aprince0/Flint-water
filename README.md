@@ -1,6 +1,6 @@
 # Flint-water
-ment.
-we consider the problem of estimating the risk of lead contamination in home drinking water. This work relies on a large collection of water samples taken by residents and
+
+We consider the problem of estimating the risk of lead contamination in home drinking water. This work relies on a large collection of water samples taken by residents and
 government offcials throughout the crisis. Beginning in late 2015, the State of Michigan initiated program allowing any resident to submit a tap water sample for testing. This dataset is a publicly
 available collection of over 25,000 tests, and it provides a glimpse into the causes and extent of water lead contamination in Flint; it is indeed the largest dataset collected on lead in a municipal water
 system. We combine these measurements with several other data sources, including census data, property attributes, geographical information, and infrastructure records, and we use the combined
